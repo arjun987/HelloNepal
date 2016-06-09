@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 String firstName = et1.getText().toString();
                 String lastNmae = et2.getText().toString();
                 String fullName = firstName+" "+lastNmae;
-
+// blank space checking code
                 if(firstName.trim().isEmpty()){
                     et1.setError("Required field");
 
