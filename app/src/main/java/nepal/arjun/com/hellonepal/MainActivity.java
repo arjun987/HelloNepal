@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
+// toast function
     public void toast (String message)
     {
 
