@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello Nepal</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="radioFemale">Female</string>
+    <string name="title_activity_arjun">Arjun</string>
+    <string name="emptysString" />
+    <string name="errorfield">This field is required</string>
+</resources>
